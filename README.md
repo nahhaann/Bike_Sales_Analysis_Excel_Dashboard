@@ -6,25 +6,36 @@ This project explores and visualizes bike sales data using Microsoft Excel. The 
 To analyze and visualize bike sales data to identify customer trends, optimize inventory, and enhance marketing strategies.
 
 ## Goals
-✅ Explore sales performance by customer demographics (age, income, education, etc.)
-✅ Identify popular bike types and sales trends across regions
-✅ Segment customers by purchasing patterns and preferences
-✅ Build an interactive Excel dashboard for executive-level insights
-✅ Enable data-driven decision-making for product planning and marketing
+- Explore sales performance by customer demographics (age, income, education, etc.)
+
+- Identify popular bike types and sales trends across regions
+
+- Segment customers by purchasing patterns and preferences
+
+- Build an interactive Excel dashboard for executive-level insights
+
+- Enable data-driven decision-making for product planning and marketing
 
 ## 📊 Dashboard Overview
 
 🔹 Customer Demographics: Age groups, income levels, gender, education, and commute distances
+
 🔹 Sales Trends: Total bikes sold across states and regions
+
 🔹 Bike Category Insights: Preferences by bike type, category, and model
+
 🔹 Customer Segmentation: Relationship between demographic variables and bike purchases
 
 ## 🧠 Key Insights
 
 - Middle-income groups (≥$60,000) contributed most to bike purchases.
+  
 - Customers aged 26–45 formed the largest buyer segment.
+  
 - Mountain Bikes were the top-selling category across all regions.
+  
 - Higher education levels positively correlated with purchase likelihood.
+  
 - Urban states like California and Washington had the highest sales volume.
 
 ## 🚀 Conclusion
